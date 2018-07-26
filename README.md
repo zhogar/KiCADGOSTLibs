@@ -1,0 +1,2 @@
+# KiCADGOSTLibs
+KiCAD GOST Libraries
